@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/Vp73KoG.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<img src='[https://i.imgur.com/Vp73KoG.gif](https://i.imgur.com/xSFVAL1.gif)' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
