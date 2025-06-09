@@ -45,7 +45,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had trouble with aligning the contents to make them centered
 
 ## License
 
