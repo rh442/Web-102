@@ -47,7 +47,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
--I had trouble with aligning the contents to make them centered
+- I had trouble with aligning the contents to make them centered
 - I had issues with the gif. imgur link isn't loading in Readme and my gif is too big to upload to repo.
 
 ## License
