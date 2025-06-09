@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Video Walkthrough](https://i.imgur.com/Vp73KoG.gif)
+![Test Image](https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
