@@ -35,7 +35,7 @@ Here's a walkthrough of implemented required features:
 https://i.imgur.com/gaa7KXd.gif
 
 <img src='https://i.imgur.com/gaa7KXd.gif'/>
-![!Video Walkthrough](https://i.imgur.com/gaa7KXd.gif)
+![Video Walkthrough](https://i.imgur.com/gaa7KXd.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
