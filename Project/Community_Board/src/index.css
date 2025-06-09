@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh; 
+  background-color: white;
+ 
+}
+
+.subhead {
+  display: flex;
+  justify-content: center;  /* horizontally center contents */
+  align-items: center;       /* (optional) vertically center if there's height */
+  width: 300px;
+  margin: 0 auto;            /* center the whole subhead block in its parent */
+}
+.rows{
+  text-align: center;
+  display: flex;
+  align-content: space-around;
+}
+table {
+  width: 100%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+td {
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  border-color: indigo;
+  margin: 10px;
+  background-color: indigo;
+  color:white;
+}
+img{
+  height: 250px;
+  width: 250px;
+}
+tr{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+ 
+
+}
+.Hunter{
+  width:100%;
+  height: 250px;
+  object-fit: cover;
+  
+}
+button{
+  margin-bottom: 10px;
+  padding: 5px;
+  color:indigo;
+  border-style: outset;
+  background-color: white;
+  border-style: outset;
+  border-radius: 25px;
+}
