@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
+https://i.imgur.com/gaa7KXd.gif
 <img src='https://i.imgur.com/gaa7KXd.gif'/>
 
 
