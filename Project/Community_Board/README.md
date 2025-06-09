@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/gaa7KXd'/>
+<img src='https://i.imgur.com/gaa7KXd.gif'/>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
