@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 
 - [x ] **The app displays the title of the card set, a short description, and the total number of cards**
   - [x ] Title of card set is displayed 
-  - [ ] A short description of the card set is displayed 
+  - [x ] A short description of the card set is displayed 
   - [ x] A list of card pairs is created
   - [ x] The total number of cards in the set is displayed 
   - [ x] Card set is represented as a list of card pairs (an array of dictionaries where each dictionary contains the question and answer is perfectly fine)
