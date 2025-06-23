@@ -4,39 +4,232 @@
   padding: 2rem;
   text-align: center;
   background-color: beige;
-  background-image: url(./assets/columns.webp);
+  background-image: url(./assets/colum_b.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  border-style: groove;
-  border-radius: 5px;
-  border-width: 100px;
-  border-color:goldenrod;
+
+  
 }
 
-.flippable  {
+.flippable{
   height: 400px;
-  width: 75%;
+  width: 75vw;
   margin: 0 auto;
   background-color: rgba(255,165,0,.5);
- 
+  border-radius: 20px;
   align-content: center;
   
 }
-h1{
+/* h1{
   color: gold;
   
-}
+} */
 .orange{
   background-color: rgba(255,165,0,.5);
   
 }
-.orange h1{
+/* .orange h1{
   color: rgba(90,34,139,1);
-}
+} */
 .purple{
   background-color: rgba(90,34,139,.5);
+  color:white;
 }
 h2{
   color: rgba(90,34,139,1);
+}
+.Wrong {
+  background-color:rgb(219, 93, 93);
+}
+
+.Correct {
+  background-color:greenyellow;
+} 
+.overlay {
+      position: fixed; /* Stays in place even when scrolling */
+      pointer-events: none;     /*click through*/
+      top: 0;
+      left: 0;
+      height: 100vh;  /* Full viewport height */
+      width: 100vw;      
+      z-index: 9999;        /* Very high so it stays on top */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-image: url(./assets/leave3.webp);
+      background-repeat: no-repeat;        /* Prevent repeating */
+      background-position: center center;  /* Center the image */
+      background-size: auto ;
+      
+    }
+.title{
+  background-image: url(./assets/bgleaves.webp);
+   margin: 0;
+   display: inline-block;
+   padding: 0.2em 0.5em; 
+   border-radius: 15px;
+   color:gold;
+}
+button{
+  margin: 5px 10px;
+}
+input{
+  margin-left: 10px;
+}
+
+/* .Zeus{
+  position: relative;
+  background-image: url("./assets/Zeus.webp");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  
+} */
+.card{
+  
+
+  height: 400px;
+  width: 75vw;
+  margin: 0 auto;
+  border-radius: 20px;
+  align-content: center;
+}
+.Zeus{
+  background-image: url("./assets/Zeus2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 400px;
+  width: 75vw;
+  margin: 0 auto;
+  border-radius: 20px;
+  align-content: center;
+}
+.Hera{
+  background-image: url("./assets/hera2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 400px;
+  width: 75vw;
+  margin: 0 auto;
+  border-radius: 20px;
+  align-content: center;
+}
+.Athena{
+  background-image: url("./assets/athena.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 400px;
+  width: 75vw;
+  margin: 0 auto;
+  border-radius: 20px;
+  align-content: center;
+}
+
+.Poseidon{
+  background-image: url("./assets/poseidon.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 400px;
+  width: 75vw;
+  margin: 0 auto;
+  border-radius: 20px;
+  align-content: center;
+}
+.Apollo{
+  background-image: url("./assets/apollo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 400px;
+  width: 75vw;
+  margin: 0 auto;
+  border-radius: 20px;
+  align-content: center;
+}
+.Ares{
+  background-image: url("./assets/Ares.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 400px;
+  width: 75vw;
+  margin: 0 auto;
+  border-radius: 20px;
+  align-content: center;
+}
+.Demeter{
+  background-image: url("./assets/Demeter.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 400px;
+  width: 75vw;
+  margin: 0 auto;
+  border-radius: 20px;
+  align-content: center;
+}
+.Artemis{
+  background-image: url("./assets/artemis.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 400px;
+  width: 75vw;
+  margin: 0 auto;
+  border-radius: 20px;
+  align-content: center;
+}
+.Hephaestus{
+  background-image: url("./assets/Hep.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 400px;
+  width: 75vw;
+  margin: 0 auto;
+  border-radius: 20px;
+  align-content: center;
+}
+.Aphrodite{
+  background-image: url("./assets/aphrodite.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 400px;
+  width: 75vw;
+  margin: 0 auto;
+  border-radius: 20px;
+  align-content: center;
+}
+.Hermes{
+  background-image: url("./assets/Hermes.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 400px;
+  width: 75vw;
+  margin: 0 auto;
+  border-radius: 20px;
+  align-content: center;
+}
+.Dionysus{
+  background-image: url("./assets/dionysus.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 400px;
+  width: 75vw;
+  margin: 0 auto;
+  border-radius: 20px;
+  align-content: center;
+}
+
+
+.progress{
+  color:green;
 }
