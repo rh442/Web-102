@@ -1,0 +1,39 @@
+#root {
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  width:100vw;
+  height:100vh;
+}
+.main-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  max-height: 100vh;
+  min-height: 100vh;
+  background-color: blue;
+  
+}
+.gallery_left {
+  width: 20%;
+  overflow-y: auto;
+  justify-content: center;
+  background-color: #15390c;
+  
+  
+}
+.main {
+  width: 60%;
+  background-color: #474747;
+  
+}
+.ban_right {
+  width: 20%;
+  background-color: #702626;
+  overflow-y: auto;
+}
+.tags-container button {
+  margin: 0.25rem;
+  display: inline-block;
+}
