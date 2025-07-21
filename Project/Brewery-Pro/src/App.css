@@ -1,0 +1,86 @@
+#root {
+  width:100vw;
+  
+  
+  text-align: center;
+}
+.navbar{
+  background-color: orange;
+  position: fixed ;
+  width:15%;
+  top:0;
+  left:0;
+  height: 100vh;
+}
+.brew_display{
+  text-align: left;
+  display: flex;
+  justify-content: center;
+
+  width: 100%;
+}
+.brew_display ul {
+  list-style-type: none; /* remove bullets */
+  padding-left: 0;       /* remove default left padding */
+  margin: 0 auto;        /* center ul horizontally if needed */
+  width:100% ;    /* optional max width */
+}
+.brew_display li {
+  display: flex;
+  width: 100%;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+  justify-content: space-between;
+  align-items: center;
+}
+.main-list {
+  display: flex;           /* enables flexbox layout */
+  align-items: center;     /* vertically center content */
+  justify-content: space-between; /* space between items */
+}
+.main-list span {
+  flex: 0 0 25%;           /* fixed 25% width each */
+  gap: 1rem;      /* space between spans */
+  box-sizing: border-box;  /* include padding/margin in width */
+}
+
+.main{
+  width:80%;
+  margin-left: 17%;
+}
+.search-container {
+  flex-shrink: 0;
+  padding: 1rem;
+
+}
+.main {
+  width: 80%;
+  margin-left: 17%;
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Take full height */
+}
+.brew_display {
+  flex-grow: 1;
+  overflow-y: auto; /* Makes only the list scrollable */
+}
+* {
+  box-sizing: border-box;
+}
+.stats{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.stats-bubble{
+  border-radius: 5px;
+  background-color: orange;
+  width: 120px;
+  height: 120px;
+  align-content: center;
+}
+.filter-button{
+  margin-left:10px
+}
