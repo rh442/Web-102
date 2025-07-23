@@ -36,9 +36,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:https://i.imgur.com/DE6F8Pb.gif
+Here's a walkthrough of implemented user stories:https://i.imgur.com/i3wPDHK.gif
 
-<img src= 'https://i.imgur.com/DE6F8Pb.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'https://i.imgur.com/i3wPDHK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... 
