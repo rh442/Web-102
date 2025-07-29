@@ -1,0 +1,18 @@
+.sidebar{
+    background-color: darkred;
+    position: absolute;
+    z-index: 10;
+    top:0;
+    left:0;
+    height: 100vh;
+    width:20vw;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    align-content: center;
+    
+}
+.headers{
+    margin-left: 6vw;
+}

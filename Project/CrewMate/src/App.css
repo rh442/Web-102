@@ -1,0 +1,25 @@
+
+img{
+  height: 85vh;
+  width: 45vw;
+  z-index: -1;
+  position: absolute;
+  top:0;
+  left:40vw;
+
+}
+.Project{
+  position: relative;
+  z-index: 1;
+  margin-left: 25vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+.main-container {
+  position: relative;
+  width: 100vw;
+  height: 90vh;
+}

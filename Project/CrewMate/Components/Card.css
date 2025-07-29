@@ -1,0 +1,76 @@
+.Card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    
+}
+button{
+    margin:5px
+}
+.Fire{
+    background-color: red;
+}
+.Water{
+    background-color: blue;
+}
+.Grass{
+    background-color: green;
+}
+.Electric{
+    background-color: yellow;
+}
+.Normal{
+    background-color: white;
+}
+.Ice{
+    background-color: lightskyblue;
+}
+.Fighting{
+    background-color: brown;
+}
+.Poison{
+    background-color: purple;
+}
+.Ground{
+    background-color: saddlebrown;
+}
+.Flying{
+    background-color: lightcyan;
+}
+.Psychic{
+    background-color: palevioletred;
+}
+.Bug{
+    background-color: greenyellow;
+}
+.Rock{
+    background-color: burlywood;
+}
+.Ghost{
+    background-color: darkorchid;
+}
+.Dragon{
+    background-color: gold;
+}
+.Dark{
+    background-color: darkgray;
+}
+.Steel{
+    background-color: grey;
+}
+.Fairy{
+    background-color: pink;
+}
+.Stellar{
+    background: linear-gradient(
+  to right,
+  #ffcccc, #ffe0b3, #ffffcc, #ccffcc, #cce5ff, #e0ccff, #f5ccff
+);
+
+}

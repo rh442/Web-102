@@ -1,0 +1,14 @@
+.ReadPosts{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    margin-left: 25vw;
+}
+.Nothing{
+   
+    height: 90vh;
+    width: 80vw;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}

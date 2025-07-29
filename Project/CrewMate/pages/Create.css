@@ -1,0 +1,33 @@
+.radio-grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin-left: 25vw;
+    gap: 10px;
+}
+.radio-item {
+  display: flex;
+  align-items: center;
+  gap: 8px; /* space between radio and label text */
+  cursor: pointer;
+ 
+  color:black
+}
+.text-input{
+    margin-left: 14vw;
+    text-align: center;
+}
+.Description{
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-left: 15vw;
+  justify-content: center;
+  align-items: center;
+}
+.subButton{
+  margin-left: 55vw;
+}
+#Description{
+  height: 25vh;
+  width: 30vw
+}

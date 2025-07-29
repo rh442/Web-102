@@ -1,0 +1,10 @@
+textarea {
+  vertical-align: top;      /* Optional, useful for inline alignment */
+  text-align: left;         /* Align text to the left */
+  padding: 8px;             /* Optional: Add spacing inside the box */
+  resize: vertical;         /* Allow resizing vertically only */
+}
+.buttons{
+  margin: 5px;
+  
+}

@@ -1,0 +1,15 @@
+.head{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-left: 25vw;
+}
+.viewContainer{
+    align-items: center;
+    align-content: center;
+    height: 90vh;
+}
+.Back{
+    margin-left: 60vw;
+}
