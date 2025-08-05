@@ -1,0 +1,41 @@
+.Card img{
+    height: 25vh;
+    width: 25vh;
+     
+}
+.Card{
+    margin-left: 20vw;
+    margin-right: 25vw;
+    text-align: center;
+    border:none;
+    border-bottom: 1px solid darkgreen;
+    background-color: #181d16;
+    display: flex;
+    flex-direction: row;
+    height: 25vh;
+    
+}
+.Card h2{
+    margin-top: 5px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width:calc(50vw - 25vh);
+    
+}
+.content h3{
+    margin-top: 0px;
+    margin-left: 10px
+}
+.content h2{
+    margin-bottom: 0px;
+}
+.details{
+    border-left: 1px solid darkgreen;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:10vw;
+}
