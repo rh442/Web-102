@@ -11,10 +11,10 @@ const Card = (props) =>{
     return(
         <>
             <div className="Card">
-                <img src={props.Url} alt="Picture of Food"/>
+                {/* <img src={props.Url} alt="Picture of Food"/> */}
                 <div className="content">
                     <u><h2>{props.Topic}</h2></u>
-                    <h3>{props.Blurb}</h3>
+                    {/* <h3>{props.Blurb}</h3> */}
                 
                 </div>
                 <div className="details">
